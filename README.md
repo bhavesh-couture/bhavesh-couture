@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhavesh
+👋 Hi, I’m @bhavesh
 
 <!---
 bhavesh-couture/bhavesh-couture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
